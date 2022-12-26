@@ -1,2 +1,1 @@
-
-# Click Here to Download Application : <a href="https://firebasestorage.googleapis.com/v0/b/apk-s-71157.appspot.com/o/SimpleSOS.apk?alt=media&token=473dd05f-f1e5-44b4-9b4b-1efe907d51bb" > Simple SOS </a>
+The Human Safety app is developed in Android Studio. It is an application where the user shakes his device more than 5 times then it will send a live location in SMS.
